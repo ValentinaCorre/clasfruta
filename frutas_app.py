@@ -60,8 +60,8 @@ st.write("🍚  rambutan:", distancia_rambutan)
 distancias = {
     "🍎 Manzana": distancia_manzana,
     "🍌 Banano": distancia_banano,
-    "🍊 Naranja": distancia_naranja
-    "🍚 rambutan": distancia_rambutan
+    "🍊 Naranja": distancia_naranja,
+    "🍚 rambutan": distancia_rambutan,
      
 }
 
